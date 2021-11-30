@@ -9,10 +9,10 @@ title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
 ---
 
+<div style="text-align: right">
 ![CPRED_Night_City_Today_News_Logo.png](/uploads/CPRED_Night_City_Today_News_Logo.png)
 ***Your** News, **Your** Way*
-
-## 
+</div>
 
 # Classified Militech Files Stolen, says spokesperson
 
