@@ -5,6 +5,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-feature-settings: "zero";
     font-variant-numeric: slashed-zero;
+    margin-top: 0;
 }
 
 .header-container {
