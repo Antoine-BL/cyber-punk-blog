@@ -11,7 +11,7 @@ layout: home
         </div>
         <div class="article-footer">
             <div>Article</div>
-            <div>{{post.date}}</div>
+            <div>{{post.date | '%e %b %y'}}</div>
         </div>
     </div>
 {% endfor %}

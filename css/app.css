@@ -136,6 +136,7 @@ body.loaded .vert-line {
 .article-footer {
   position: absolute;
   display: flex;
+  justify-content: space-between;
   flex-direction: row;
   bottom: 20px;
   font-size: 12pt;
