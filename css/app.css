@@ -101,6 +101,47 @@ body.loaded .vert-line {
 
 .articles-container {
   position: relative;
-  left: 183px;
-  width: calc(100vw - 183px * 2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  left: calc(183px - 8px);
+  width: calc(100vw - (183px + 8px) * 2)
+}
+
+.articles-inner {
+  width: 600px;
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.post-card {
+  position: relative;
+  width: 600px;
+  height: 200px;
+  border:1px solid rgba(255, 255, 255, 0.2);
+  padding: 20px;
+}
+
+.article-title-small {
+  font-size: 16pt;
+}
+
+.article-title-big {
+  font-size: 20pt;
+}
+
+.article-footer {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  bottom: 20px;
+  font-size: 12pt;
+}
+
+.article-footer > div {
+  padding-right: 10px;
+  text-align: center;
 }
