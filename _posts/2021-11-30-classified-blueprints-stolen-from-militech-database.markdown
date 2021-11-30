@@ -10,12 +10,8 @@ title-small: Night City Today News
 layout: post
 ---
 
-<div style="text-align: center">
-<img src="https://img.siteleaf.com/Byts5-ATa4J2xVoNrtoxSs7Ovkg=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/61a65e915e41340fc945a1ac/assets/61a667705e41347fc8cd572f.png" width="100" height="100" alt="NCT News"><br>
-<br>
-<i><b>Your</b> News, <b>Your</b> Way</i>
-</div>
-**
+![CPRED_Night_City_Today_News_Logo.png](/uploads/CPRED_Night_City_Today_News_Logo.png)
+***Your** News, **Your** Way*
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
@@ -25,7 +21,7 @@ While Militech officials refuse to confirm the source of the breach, NCT News so
 
 More on this as it develops, only here on ***Night City Today News***
 
-<div style="text-align: right"> *Author:* Bes Isis, Night City Reporter</div>
+**Author:** Bes Isis, Night City Reporter
 
 ---
 
