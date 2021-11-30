@@ -158,4 +158,5 @@ body.loaded .vert-line {
 .tag {
   color: #000;
   background-color: #fff;
+  padding-left: 10px;
 }
