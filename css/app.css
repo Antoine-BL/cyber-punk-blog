@@ -58,6 +58,7 @@ body {
 }
 
 #pulseSpan {
+  font-family: Raskhal;
   position: relative;
   font-weight: bolder;
   font-size: 90pt;
