@@ -11,11 +11,11 @@ layout: post
 ---
 
 <div style="text-align: center">
-<img src="https://img.siteleaf.com/Byts5-ATa4J2xVoNrtoxSs7Ovkg=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/61a65e915e41340fc945a1ac/assets/61a667705e41347fc8cd572f.png" alt="NCT News"><br>
+<img src="https://img.siteleaf.com/Byts5-ATa4J2xVoNrtoxSs7Ovkg=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/61a65e915e41340fc945a1ac/assets/61a667705e41347fc8cd572f.png" width="100" height="100" alt="NCT News"><br>
 <br>
-<p style="font-size:30px"><i><b>Your</b> News, <b>Your</b> Way</i></p>
+<i><b>Your</b> News, <b>Your</b> Way</i>
 </div>
-
+**
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
