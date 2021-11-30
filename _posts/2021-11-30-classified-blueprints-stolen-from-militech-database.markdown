@@ -14,6 +14,8 @@ title-small: Night City Today News
 ***Your** News, **Your** Way*
 </div>
 
+# Classified Militech Files Stolen, says spokesperson
+
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
 In the dead of night, an unknown quantity of classified Militech Weapons manufacturing information and blueprints were stolen via microchip from the company's servers. Militech assured the public that "whoever did this, they would face justice".
@@ -22,7 +24,7 @@ While Militech officials refuse to confirm the source of the breach, NCT News so
 
 More on this as it develops, only here on ***Night City Today News***
 
-<div style="text-align: right"> *Author:* Bes Isis, Night City Reporter</div>
+<div style="text-align: right"> <b>Author:</b> Bes Isis, Night City Reporter</div>
 
 ---
 
