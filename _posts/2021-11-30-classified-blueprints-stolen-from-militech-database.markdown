@@ -11,7 +11,7 @@ title-small: Night City Today News
 
 <div style="text-align: right">
 <img src="/uploads/CPRED_Night_City_Today_News_Logo.png" alt="NTCN Logo">
-<b><i>Your</i></b> News, <b><i>Your</i></b> Way
+<b><i>Your</i> News, <i>Your</i> Way</b>
 </div>
 
 # Classified Militech Files Stolen, says spokesperson
