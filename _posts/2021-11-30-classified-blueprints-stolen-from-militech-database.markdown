@@ -9,12 +9,10 @@ title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
 ---
 
-<div style="text-align: right">
+<div style="text-align: center">
 ![CPRED_Night_City_Today_News_Logo.png](/uploads/CPRED_Night_City_Today_News_Logo.png)
 ***Your** News, **Your** Way*
 </div>
-
-# Classified Militech Files Stolen, says spokesperson
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
@@ -24,7 +22,7 @@ While Militech officials refuse to confirm the source of the breach, NCT News so
 
 More on this as it develops, only here on ***Night City Today News***
 
-<div style="text-align: right"> <b>Author:</b> Bes Isis, Night City Reporter</div>
+<div style="text-align: right"> *Author:* Bes Isis, Night City Reporter</div>
 
 ---
 
