@@ -18,7 +18,7 @@ layout: post
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
-In the dead of night, an unknown quantity of classified Militech Weapons manufacturing information and blueprints were stolen via microchip from the company's servers. Militech assured the public that "whoever did this, they would face justice".
+In the dead of night, an unknown quantity of classified Militech Weapons manufacturing information and blueprints were stolen via microchip from the company's servers. Militech assured the public that "whoever did this, they will face justice".
 
 While Militech officials refuse to confirm the source of the breach, NCT News sources suggest that the theft was an inside job.
 
