@@ -11,7 +11,7 @@ layout: post
 ---
 
 <div style="text-align: center">
-<img src="/uploads/CPRED_Night_City_Today_News_Logo.png" width="100" height="100" alt="NCT News"><br>
+<img src="{{'/uploads/CPRED_Night_City_Today_News_Logo.png' | relative_url}}" width="100" height="100" alt="NCT News"><br>
 <br>
 <i><b>Your</b> News, <b>Your</b> Way</i>
 </div>
