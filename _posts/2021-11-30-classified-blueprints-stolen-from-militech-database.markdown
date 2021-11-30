@@ -8,8 +8,8 @@ type: Screamsheet
 title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
 layout: screamsheet
-logo: /uploads/CPRED_Night_City_Today_News_Logo.png
-author:  Bes Isis, Night City Reporter
+logo: "/uploads/CPRED_Night_City_Today_News_Logo.png"
+author: Bes Isis, Night City Reporter
 ---
 
 ---
