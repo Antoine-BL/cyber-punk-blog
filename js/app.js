@@ -6,7 +6,7 @@ $(document).ready(() => {
     const target = window.document.getElementById('pulseSpan')
 
     const flickerLetter = letter => `<span style="animation: text-flicker-in-glow ${Math.random()*4}s linear both ">${letter}</span>`
-    const colorLetter = letter => `<span style="color: hsla(${290 + (Math.random()*30 - 15)}, 100%, 70%, 1);">${letter}</span>`;
+    const colorLetter = letter => `<span style="color: hsla(${345 + (Math.random()*30 - 15)}, 100%, 40%, 1);">${letter}</span>`;
     const flickerAndColorText = text => 
     text
         .split('')

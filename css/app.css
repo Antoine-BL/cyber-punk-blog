@@ -19,11 +19,11 @@ body {
 }
 
 .header-title .glitch:before {
-  top: 15pt;
+  top: 10pt;
 }
 
 .header-title .glitch:after {
-  top: 15pt;
+  top: 10pt;
 }
 
 .header-title {
@@ -60,8 +60,7 @@ body {
 #pulseSpan {
   font-family: Raskhal;
   position: relative;
-  font-weight: bolder;
-  font-size: 90pt;
+  font-size: 100pt;
 }
 
 .fade-in {
