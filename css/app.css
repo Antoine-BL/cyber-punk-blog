@@ -128,6 +128,8 @@ body.loaded .vert-line {
   height: 200px;
   border:1px solid rgba(255, 255, 255, 0.2);
   padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .article-title-small {
