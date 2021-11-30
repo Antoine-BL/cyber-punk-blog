@@ -7,6 +7,7 @@ tags:
 type: Screamsheet
 title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
+layout: post
 ---
 
 <div style="text-align: center">
