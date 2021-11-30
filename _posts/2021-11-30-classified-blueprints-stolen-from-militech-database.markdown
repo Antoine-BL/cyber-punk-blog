@@ -1,20 +1,19 @@
 ---
 title: Classified Militech Files Stolen!
-date: 2021-11-30 18:01:00 Z
+date: 2021-11-30 16:15:00 Z
 tags:
 - Militech
 - NCT
 type: Screamsheet
 title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
+layout: post
 ---
 
-<div style="text-align: right">
-<img src="/uploads/CPRED_Night_City_Today_News_Logo.png" alt="NTCN Logo">
-<b><i>Your</i> News, <i>Your</i> Way</b>
+<div style="text-align: center">
+<img src="/uploads/CPRED_Night_City_Today_News_Logo.png" alt="NCT News">
+***Your** News, **Your** Way*
 </div>
-
-# Classified Militech Files Stolen, says spokesperson
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
@@ -24,7 +23,7 @@ While Militech officials refuse to confirm the source of the breach, NCT News so
 
 More on this as it develops, only here on ***Night City Today News***
 
-<div style="text-align: right"> <b>Author:</b> Bes Isis, Night City Reporter</div>
+<div style="text-align: right"> *Author:* Bes Isis, Night City Reporter</div>
 
 ---
 
