@@ -114,6 +114,7 @@ body.loaded .vert-line {
   width: 600px;
   max-width: 100%;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -153,6 +154,6 @@ body.loaded .vert-line {
 }
 
 .tag {
-  color: #fff;
-  background-color: #000;
+  color: #000;
+  background-color: #fff;
 }
