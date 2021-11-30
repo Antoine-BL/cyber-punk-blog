@@ -12,6 +12,7 @@ layout: home
         <div class="article-footer">
             <div>Article</div>
             <div>{{post.date | date: "%e %B %Y"}}</div>
+            <div class="tag">#{{post.type}}</div>
         </div>
     </div>
 {% endfor %}

@@ -151,3 +151,8 @@ body.loaded .vert-line {
   padding-right: 10px;
   text-align: center;
 }
+
+.tag {
+  color: #fff;
+  background-color: #000;
+}

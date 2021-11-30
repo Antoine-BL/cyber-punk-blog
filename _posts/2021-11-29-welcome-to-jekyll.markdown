@@ -3,7 +3,8 @@ layout: post
 title: "I made a blog!"
 title-small:  "I Made"
 title-big:  "A Blog!"
-date:   2021-11-29 20:11:22 -0500
+date: 2021-11-29 20:11:22 -0500
+type: 'Sitrep'
 ---
 
 ### What??
