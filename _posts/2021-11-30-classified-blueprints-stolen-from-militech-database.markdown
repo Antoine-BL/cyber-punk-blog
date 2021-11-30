@@ -15,6 +15,7 @@ layout: post
 <br>
 <i><b>Your</b> News, <b>Your</b> Way</i>
 </div>
+**
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
