@@ -8,28 +8,28 @@ body {
 }
 
 .header-container {
-  position: absolute;
   top: 0;
   left: 0;
-  height: calc(100vh);
+  height: calc(100vh + 50px);
   width: calc(100vw - 16px);
   overflow: hidden;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 75%, #000 100%), url("../assets/header.gif");
+  background-size: cover;
 }
 
-.header-bg {
-  position: absolute;
-  display: block;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+.header-title .glitch:before {
+  top: 15pt;
+}
+
+.header-title .glitch:after {
+  top: 15pt;
 }
 
 .header-title {
   position: absolute;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 75pt;
   top: calc(50vh - 60pt);
   left: 0;
@@ -45,7 +45,9 @@ body {
 
 .header-subtitle {
   position: absolute;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 40pt;
   top: calc(50vh + 50pt);
   left: 0;
@@ -56,7 +58,6 @@ body {
 
 #pulseSpan {
   position: relative;
-  /* font-family: 'Alien Encounters', arial; */
   font-weight: bolder;
   font-size: 90pt;
 }
@@ -98,3 +99,8 @@ body.loaded .vert-line {
   right: 183px;
 }
 
+.articles-container {
+  position: relative;
+  left: 183px;
+  width: calc(100vw - 183px * 2);
+}
