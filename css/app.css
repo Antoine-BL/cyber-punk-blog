@@ -118,6 +118,9 @@ body.loaded .vert-line {
 }
 
 .post-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: relative;
   width: 600px;
   height: 200px;
@@ -134,8 +137,9 @@ body.loaded .vert-line {
 }
 
 .article-footer {
-  position: absolute;
   display: flex;
+  width: 100%;
+  justify-self: end;
   justify-content: space-between;
   flex-direction: row;
   bottom: 20px;
