@@ -28,13 +28,10 @@ More on this as it develops, only here on ***Night City Today News***
 <br>
 
 ---
-
 <br>
-
 ## **Disclaimer**
-
 <br>
-\*The opinions and reporting herein are solely the responsibility of the article's authors, and may not necessarily represent the views and positions of Night City Today News.
+The opinions and reporting herein are solely the responsibility of the article's authors, and may not necessarily represent the views and positions of Night City Today News.
 <br>
-Night City Today News does not guarantee the factuality of its reporting, and is not responsible for any partially or entirely factually inaccurate information in its reporting.\*
+Night City Today News does not guarantee the factuality of its reporting, and is not responsible for any partially or entirely factually inaccurate information in its reporting.
 <br>
