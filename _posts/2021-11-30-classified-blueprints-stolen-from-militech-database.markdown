@@ -14,6 +14,7 @@ layout: post
 <img width="200" src="{{'/uploads/CPRED_Night_City_Today_News_Logo.png' | relative_url}}" alt="NCT News"><br>
 <br>
 <p style="font-size:30px"><i><b>Your</b> News, <b>Your</b> Way</i></p>
+</div>
 
 In a shocking development, Arms manufacturing and distribution megacorp **Militech International** reported an unprecedented breach of its internal security systems.
 
