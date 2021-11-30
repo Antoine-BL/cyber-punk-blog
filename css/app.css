@@ -1,0 +1,100 @@
+body {
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+    font-feature-settings: "zero";
+    font-variant-numeric: slashed-zero;
+}
+
+.header-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: calc(100vh);
+  width: calc(100vw - 16px);
+  overflow: hidden;
+}
+
+.header-bg {
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.header-title {
+  position: absolute;
+  display: block;
+  font-size: 75pt;
+  top: calc(50vh - 60pt);
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 3;
+}
+
+.half-bg {
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+.header-subtitle {
+  position: absolute;
+  display: block;
+  font-size: 40pt;
+  top: calc(50vh + 50pt);
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 3;
+}
+
+#pulseSpan {
+  position: relative;
+  /* font-family: 'Alien Encounters', arial; */
+  font-weight: bolder;
+  font-size: 90pt;
+}
+
+.fade-in {
+  transition: transform 1.5s cubic-bezier(0.33,1,0.68,1);
+  transform-origin: top;
+}
+
+.vert-line {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  height: 100vh;
+  z-index: 2;
+  background: rgba(255,255,255,0.2);
+  background-color: rgba(255, 255, 255, 0.2);
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: none;
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+  transform: scaleY(0) translateZ(0);
+}
+
+body.loaded .vert-line {
+  transform: scaleY(1) translateZ(0);
+}
+
+.vert-line-left {
+  left: 183px;
+}
+
+.vert-line-right {
+  right: 183px;
+}
+
