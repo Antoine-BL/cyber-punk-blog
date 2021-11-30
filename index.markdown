@@ -2,6 +2,7 @@
 title: The Pulse of Night City
 layout: home
 ---
+
 <div class="articles-inner">
 {% for post in site.posts %}
     <div class="post-card" style="cursor: pointer;" onclick="window.location='/cyber-punk-blog/{{ post.url }}';">
