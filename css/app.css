@@ -5,7 +5,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     font-feature-settings: "zero";
     font-variant-numeric: slashed-zero;
-    margin-top: 0;
+    margin: 0 !important;
 }
 
 .header-container {
@@ -93,11 +93,11 @@ body.loaded .vert-line {
 }
 
 .vert-line-left {
-  left: 183px;
+  left: 128px;
 }
 
 .vert-line-right {
-  right: 183px;
+  right: 128px;
 }
 
 .articles-container {
@@ -106,8 +106,8 @@ body.loaded .vert-line {
   align-items: center;
   justify-content: center;
   display:flex;
-  left: calc(183px - 8px);
-  width: calc(100vw - (183px + 8px) * 2)
+  left: 128px;
+  width: calc(100vw - 128px * 2)
 }
 
 .articles-inner {
