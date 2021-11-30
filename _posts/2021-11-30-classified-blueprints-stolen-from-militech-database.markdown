@@ -10,7 +10,7 @@ title-small: Night City Today News
 ---
 
 <div style="text-align: right">
-<img src="img_girl.jpg" alt="NTCN Logo">[CPRED_Night_City_Today_News_Logo.png](/uploads/CPRED_Night_City_Today_News_Logo.png)
+<img src="/uploads/CPRED_Night_City_Today_News_Logo.png" alt="NTCN Logo">[CPRED_Night_City_Today_News_Logo.png]()
 ***Your** News, **Your** Way*
 </div>
 
