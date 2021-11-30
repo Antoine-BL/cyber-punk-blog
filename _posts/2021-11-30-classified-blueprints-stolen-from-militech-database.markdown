@@ -24,7 +24,7 @@ While Militech officials refuse to confirm the source of the breach, NCT News so
 
 More on this as it develops, only here on ***Night City Today News***
 
-*Author:* Bes Isis, Night City Reporter
+<div style="text-align: right"> *Author:* Bes Isis, Night City Reporter</div>
 
 ---
 
