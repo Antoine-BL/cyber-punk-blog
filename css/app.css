@@ -12,7 +12,7 @@ body {
   top: 0;
   left: 0;
   height: calc(100vh + 50px);
-  width: calc(100vw - 25px);
+  width: calc(100vw - 17px);
   overflow: hidden;
   background: linear-gradient(to bottom, rgba(0,0,0,0) 75%, #000 100%), url("../assets/header.gif");
   background-size: cover;
@@ -107,7 +107,7 @@ body.loaded .vert-line {
   justify-content: center;
   display:flex;
   left: 128px;
-  width: calc(100vw - 128px * 2)
+  width: calc(100vw - (128px * 2))
 }
 
 .articles-inner {
