@@ -19,11 +19,11 @@ body {
 }
 
 .header-title .glitch:before {
-  top: 10pt;
+  top: 25pt;
 }
 
 .header-title .glitch:after {
-  top: 10pt;
+  top: 25pt;
 }
 
 .header-title {
