@@ -1,9 +1,12 @@
 ---
-title: Breach of A.I. Protocols at Rocklin Augmentics?
+title: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!
 date: 2041-06-07 17:39:00 Z
+tags:
+- leak news
+- rocklin augmentics
 type: Screamsheet
 title-small: Leak News Exclusive
-title-big: 'SHOCKING: Alleged breach of A.I. Protocols at Rocklin Augmentics!'
+title-big: 'SHOCKING: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!'
 logo: "/uploads/Leak%20News.png"
 author: Duel Murata, Independent Media
 ---
