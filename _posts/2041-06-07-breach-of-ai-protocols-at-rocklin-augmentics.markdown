@@ -19,9 +19,9 @@ Acording to them, these SHADY designs wanted to achieve a "cyberware *gestalt*" 
 
 There ya have it folks, The Man is at it again and breaking the 2025 A.I Protocols that "keep us safe" from all the so-called Rogues AIs. 
 
-Yeah Right! I don't know what they're hiding in there, but it can't be good.
+Yea Right! Dunno what they're HIDING in the Old Net, but it CANT be good.
 
-The conspiracy is real Chooms, and don't forget: 
+The conspiracy is REAL Chooms, and don't forget: 
 *Just because you're paranoid, don't mean they're not after you*
 
 ---
