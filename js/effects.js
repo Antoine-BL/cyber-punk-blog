@@ -36,7 +36,7 @@ $(document).ready(() => {
         const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#%^&(){}:';
 
         const textGlitch = (target, originalText) => {
-            const delay = 50;
+            const delay = 100;
             const nbIter = 4;
             
             if (target.children.length > 0) {
