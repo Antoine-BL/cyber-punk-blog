@@ -1,16 +1,16 @@
 ---
 title: Classified Militech Files Stolen!
-date: 2021-11-30 16:31:00 Z
+date: 2045-11-30 16:31:00 Z
 tags:
 - Militech
 - NCT
 type: Screamsheet
 title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
-layout: screamsheet
 logo: "/uploads/CPRED_Night_City_Today_News_Logo.png"
 author: Bes Isis, Night City Reporter
 slogan: "<em>Your</em> News, <em>Your</em> Way"
+layout: screamsheet
 ---
 
 ---
