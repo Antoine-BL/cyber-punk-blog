@@ -5,10 +5,12 @@ tags:
 - leak news
 - rocklin augmentics
 type: Screamsheet
-title-small: Leak News Exclusive
 title-big: 'SHOCKING: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!'
+title-small: Leak News Exclusive
 logo: "/uploads/Leak%20News.png"
 author: Duel Murata, Independent Media
+slogan: "<em>No</em> Copyrights, <em>No</em> Censorship"
+layout: screamsheet
 ---
 
 ---
