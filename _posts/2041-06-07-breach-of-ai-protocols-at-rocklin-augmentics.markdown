@@ -20,7 +20,7 @@ Yesterday, ex-Rocklin Augmentics designers Manuel Ferrera and Bianca Williams le
 
 The designers say that approached them and DEMANDED they sign off on designs that were developed IN SECRET! Shady stuff!!1!
 
-Acording to them, these SHADY designs wanted to achieve a "cyberware *gestalt*" (whatever the f*ck that means eh?) COMBINING Cyberware. 
+Acording to them, these SHADY designs wanted to achieve a "cyberware *gestalt*" (whatever the f*ck that means eh?) by COMBINING Cyberware from different people! 
 
 There ya have it folks, The Man is at it again and breaking the 2025 A.I Protocols that "keep us safe" from all the so-called Rogues AIs. 
 
