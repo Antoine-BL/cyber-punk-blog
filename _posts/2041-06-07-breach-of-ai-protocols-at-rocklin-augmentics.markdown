@@ -22,9 +22,11 @@ The designers say that Rocklin's HEAD HONCHOS approached them and DEMANDED they 
 
 Acording to them, these SHADY designs wanted to achieve a "cyberware *gestalt* " (whatever the f*ck that means eh?) by COMBINING Cyberware from different people! 
 
-There ya have it folks, The Man is at it again and breaking the 2025 A.I Protocols that "keep us safe" from all the so-called Rogues AIs. 
+There ya have it folks, The Man is at it again and breaking the 2025 A.I Protocols that "keep us safe" from all the so-called Rogues AIs supposedly roaming the Old Net. 
 
-Yea Right! Dunno what they're HIDING in the Old Net, but it CANT be good.
+OF COURSE, Rocklin's media SHILLS have said that the designers are just p*ssed off and making sh*t up.
+
+YEAH RIGHT! Dunno what they're HIDING but it CANT be good.
 
 The conspiracy is REAL Chooms, and don't forget: 
 *Just because you're paranoid, don't mean they're not after you*
