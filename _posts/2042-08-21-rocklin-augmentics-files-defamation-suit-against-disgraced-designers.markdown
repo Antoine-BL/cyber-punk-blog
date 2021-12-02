@@ -30,4 +30,3 @@ Night City Today News was unable to obtain a comment from either designer as the
 The opinions and reporting herein are solely the responsibility of the article's authors, and may not necessarily represent the views and positions of Night City Today News.
 
 Night City Today News does not guarantee the factuality of its reporting, and is not responsible for any partially or entirely factually inaccurate information in its reporting.
----
