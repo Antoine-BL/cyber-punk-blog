@@ -8,7 +8,8 @@ type: Screamsheet
 title-big: 'Netwatch: Rockling Augmentics Cleared of Wrongdoing'
 title-small: Night City Today News
 logo: "/uploads/CPRED_Night_City_Today_News_Logo.png"
-Field name: 
+author: Bes Isis, Night City Reporter
+slogan: "<em>Your</em> News, <em>Your</em> Way"
 layout: screamsheet
 ---
 
