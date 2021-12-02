@@ -35,5 +35,3 @@ And there it is: the fine name of Rocklin Augmentics has been absolved. All this
 The opinions and reporting herein are solely the responsibility of the article's authors, and may not necessarily represent the views and positions of Night City Today News.
 
 Night City Today News does not guarantee the factuality of its reporting, and is not responsible for any partially or entirely factually inaccurate information in its reporting.
-
----
