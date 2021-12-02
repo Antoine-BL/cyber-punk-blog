@@ -21,7 +21,7 @@ In response to these grave accusations from the vindictive employees, NetWatch d
 
 Throughout the investigation, Jacinda Hidalgo, CEO and owner of Rocklin Augmentics, has never waivered in her vehement denials of these clearly fallacious allegations:
 
-> "Look, I hate to speak ill of others, but the fact is that these designers are disgruntled employees. They're furious they got fired for shoddy work, and so are now hellbent on destroying the company my father worked so hard to build. I'm the real victim here"
+> "Look, I hate to speak ill of others, but the fact is that these designers are disgruntled employees. They're furious they got fired for shoddy work, and so are now hellbent on destroying the company my father and I worked so hard to build. If you really think about it, I'm the real victim here"
 
 On Monday, Ms Hidalgo's tragic ordeal came to an end. After a full sweep of all Rocklin facilities and a Warrant Watchdog on all intercompany data traffic, Netwatch cleared Rocklin Augmentics of any wrongdoing. Lucian Moore, spokesperson for Netwatch, had the following to say:
 
