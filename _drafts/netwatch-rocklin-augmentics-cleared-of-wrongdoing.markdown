@@ -14,3 +14,25 @@ layout: screamsheet
 ---
 
 ---
+
+Last June, the American business community was rocked by stunning allegations from disgruntled Rocklin Augmentics designers that Rocklin Augmentics, the revered Texas-based cybernetics and structural enhancements giant, was secretly performing illicit experiments to create what they called a "cybernetic gestalt".
+
+In response to these grave accusations from the vindictive employees, NetWatch declared that it was launching an investigation to determine whether they had any validity and whether Rocklin's research was in breach of the 2025 A.I. Protocols.
+
+Throughout the investigation, Jacinda Hidalgo, CEO and owner of Rocklin Augmentics, has never waivered in her vehement denials of these clearly fallacious allegations:
+
+> "Look, I hate to speak ill of others, but the fact is that these designers are disgruntled employees. They're furious they got fired for shoddy work, and so are now hellbent on destroying the company my father worked so hard to build. I'm the real victim here"
+
+On Monday, Ms Hidalgo's tragic ordeal came to an end. After a full sweep of all Rocklin facilities and a Warrant Watchdog on all intercompany data traffic, Netwatch cleared Rocklin Augmentics of any wrongdoing. Lucian Moore, spokesperson for Netwatch, had the following to say:
+
+> "After four months of investigation in close cooperation with Rocklin Augmentics, we've come to the conclusion that there is no evidence to support the claims of Manuel Ferrara and Bianca Williams."
+
+And there it is: the fine name of Rocklin Augmentics has been absolved. All this reporter can hope for is that other such false whistleblowers will think twice before making such allegations again.
+
+---
+**Disclaimer**:
+
+The opinions and reporting herein are solely the responsibility of the article's authors, and may not necessarily represent the views and positions of Night City Today News.
+
+Night City Today News does not guarantee the factuality of its reporting, and is not responsible for any partially or entirely factually inaccurate information in its reporting.
+---
