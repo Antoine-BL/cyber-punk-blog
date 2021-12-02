@@ -28,5 +28,4 @@ Yea Right! Dunno what they're HIDING in the Old Net, but it CANT be good.
 
 The conspiracy is REAL Chooms, and don't forget: 
 *Just because you're paranoid, don't mean they're not after you*
-
 ---
