@@ -8,17 +8,17 @@ type: Screamsheet
 title-big: 'SHOCKING: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!'
 title-small: Leak News Exclusive
 logo: "/uploads/Leak%20News.png"
-author: Duel Murata, Independent Media
+author: Nostradamus
 slogan: "<em>No</em> Copyrights, <em>No</em> Censorship"
 layout: screamsheet
 ---
 
 ---
-Hey CHOOMBAS, Duel Murata here with another BOMBSHELL for you!
+Hey CHOOMBAS, Nostradamus here with another BOMBSHELL for you!
 
-Yesterday, ex-Rocklin Augmentics designers Manuel Ferrera and Bianca Williams leaked documents that PROVE that they were pressured by management before they were FIRED weeks ago. The Man don't take no for an answer ammirite folks?
+Yesterday, an interview was published by media Duel Murata with ex-Rocklin Augmentics designers Manuel Ferrera and Bianca Williams which PROVES that they were pressured by management before they were FIRED weeks ago. The Man don't take no for an answer ammirite folks?
 
-The designers say that approached them and DEMANDED they sign off on designs that were developed IN SECRET! Shady stuff!!1!
+The designers say that Rocklin's HEAD HONCHOS approached them and DEMANDED they sign off on designs that were developed IN SECRET! Shady stuff!!1!
 
 Acording to them, these SHADY designs wanted to achieve a "cyberware *gestalt* " (whatever the f*ck that means eh?) by COMBINING Cyberware from different people! 
 
