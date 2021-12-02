@@ -25,7 +25,7 @@ Throughout the investigation, Jacinda Hidalgo, CEO and owner of Rocklin Augmenti
 
 On Monday, Ms Hidalgo's tragic ordeal came to an end. After a full sweep of all Rocklin facilities and a Warrant Watchdog on all intercompany data traffic, Netwatch cleared Rocklin Augmentics of any wrongdoing. Lucian Moore, spokesperson for Netwatch, had the following to say:
 
-> "After four months of investigation in close cooperation with Rocklin Augmentics, we've come to the conclusion that there is no evidence to support the claims of Manuel Ferrara and Bianca Williams."
+> "After four months of investigation and in close cooperation with Rocklin Augmentics, we've come to the conclusion that there is no evidence to support the claims of Manuel Ferrara and Bianca Williams."
 
 And there it is: the fine name of Rocklin Augmentics has been absolved. All this reporter can hope for is that other such false whistleblowers will think twice before making such allegations again.
 
