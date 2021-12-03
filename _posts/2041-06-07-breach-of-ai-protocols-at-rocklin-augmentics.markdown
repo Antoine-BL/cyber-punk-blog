@@ -5,7 +5,7 @@ tags:
 - leak news
 - rocklin augmentics
 type: Screamsheet
-title-big: 'SHOCKING: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!'
+title-big: 'SHOCKING: Ex-Designers PROVE conspiracy at Rocklin Augmentics!'
 title-small: Leak News Exclusive
 logo: "/uploads/Leak%20News.png"
 author: Nostradamus
