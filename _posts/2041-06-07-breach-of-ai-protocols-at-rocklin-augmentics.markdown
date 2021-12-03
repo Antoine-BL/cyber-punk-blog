@@ -1,5 +1,5 @@
 ---
-title: Ex-Designers PROVE breach of A.I. Protocols at Rocklin Augmentics!
+title: Ex-Designers PROVE conspiracy at Rocklin Augmentics!
 date: 2041-06-07 17:39:00 Z
 tags:
 - leak news
