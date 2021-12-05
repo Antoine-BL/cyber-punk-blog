@@ -18,3 +18,8 @@ date: 2021-11-29 23:45:00 Z
 - On the way back from the Club, the party is ambushed by Boosters from the Red Chrome Legion Hate Gang. Michi ruthlessly dispatched several gangers with the help of her trusty AK-80 and Pulse was able to quickly dispatch two gangers himself with quick, well aimed shots of his Armalite .44 Heavy Pistol. (+10 each)
 
 **Improvement Points:**
+- Group: For accomplishing most of the mission goals extremely well, with a few stellar moments, 50 points.
+- Michi: For combat prowess, 20 points
+- Pulse: For prowess in combat and for devising a daring escape plan, 20 points
+- Birdie: For confidently acting the part and quick thinking to maintain the Crew's cover under pressure, 20 points.
+- Vigo: For staying behind at great potential risk for himself, and quickly hacking the Club's Net database to locate the office password, 20 points
