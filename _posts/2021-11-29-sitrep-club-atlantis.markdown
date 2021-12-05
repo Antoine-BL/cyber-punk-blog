@@ -1,9 +1,10 @@
 ---
 title: SITREP - Club Atlantis
 date: 2021-11-29 23:45:00 Z
-type: post
+type: SITREP
 title-big: Club Atlantis
 title-small: Situation Report
+layout: post
 ---
 
 - This month, as with most months, you're short on rent, and Doc Carver has a job for you.
