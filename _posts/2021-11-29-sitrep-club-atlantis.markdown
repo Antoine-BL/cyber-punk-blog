@@ -16,3 +16,5 @@ date: 2021-11-29 23:45:00 Z
 - Thinking quickly on his feet, Pulse notices an escape route through the Club offices, allowing the Party to escape quietly with Slice to ensure the transaction is successful while Vigo and Michi distract the Militech operatives. (+10 IP)
 - Vigo used his excellent Netrunning skills to quickly locate the door code to the office, allowing his crew mates to escape and stayed behind not to arouse the suspicion of the Militech soldiers. (+20 IP)
 - On the way back from the Club, the party is ambushed by Boosters from the Red Chrome Legion Hate Gang. Michi ruthlessly dispatched several gangers with the help of her trusty AK-80 and Pulse was able to quickly dispatch two gangers himself with quick, well aimed shots of his Armalite .44 Heavy Pistol. (+10 each)
+
+**Improvement Points:**
