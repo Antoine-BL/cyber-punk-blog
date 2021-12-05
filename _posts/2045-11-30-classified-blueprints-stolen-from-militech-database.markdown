@@ -4,7 +4,7 @@ date: 2045-11-30 16:31:00 Z
 tags:
 - Militech
 - NCT
-type: Screamsheet
+type: post
 title-big: Classified Militech Files Stolen!
 title-small: Night City Today News
 logo: "/uploads/CPRED_Night_City_Today_News_Logo.png"
