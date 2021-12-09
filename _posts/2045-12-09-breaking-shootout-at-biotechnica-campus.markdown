@@ -14,3 +14,5 @@ layout: screamsheet
 Early this morning, Night City Today News received reports of gunshots at the Biotechnica Campus in the University District. 
 
 While NCTN cannot yet corroborate these accounts, stay tuned for the latest on this developing story.
+
+---
