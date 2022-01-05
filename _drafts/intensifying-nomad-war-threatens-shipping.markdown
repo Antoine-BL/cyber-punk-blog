@@ -7,6 +7,7 @@ title-small: Leak News Exclusive
 logo: "/uploads/Leak%20News.png"
 author: Nostradamus
 Field name: "<em>No</em> Copyrights, <em>No</em> Censorship"
+layout: screamsheet
 ---
 
 ---
