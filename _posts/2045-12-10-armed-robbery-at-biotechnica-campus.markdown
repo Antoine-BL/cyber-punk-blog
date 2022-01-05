@@ -2,7 +2,7 @@
 title: Armed Robbery at Biotechnica Campus!
 date: 2045-12-10 20:03:00 Z
 title-big: Armed Robbery at Biotechnica Campus!
-type: post
+type: screamsheet
 title-small: Night City Today News
 logo: "/uploads/CPRED_Night_City_Today_News_Logo.png"
 author: Will Hawkes, Night City Reporter
